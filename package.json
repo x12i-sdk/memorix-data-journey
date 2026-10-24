@@ -1,0 +1,22 @@
+{
+  "name": "memorix-data-journey-usage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Usage example for @x12i/memorix-data-journey: project a captured record observation into an evidence matrix.",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node src/index.mjs",
+    "check": "node --check src/index.mjs"
+  },
+  "dependencies": {
+    "@x12i/memorix-data-journey": "3.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x12i-sdk/memorix-data-journey.git"
+  },
+  "homepage": "https://www.npmjs.com/package/@x12i/memorix-data-journey"
+}

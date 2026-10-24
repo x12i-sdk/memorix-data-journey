@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/memorix-data-journey",
+  "packageVersion": "3.1.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/memorix-data-journey",
+  "usageRepository": "https://github.com/x12i-sdk/memorix-data-journey",
+  "sourceRepository": "https://github.com/x12i/memorix-mono-repo",
+  "sourceCommit": "b87d277ff9c40cedc18d5f4775642baf8a2d3df1",
+  "sourcePackageDirectory": "memorix-data-journey",
+  "example": {
+    "title": "Project a captured record observation into an evidence matrix",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T15:06:19.302345+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "9094171710c8ba84300c7a3bb89879a232a00b13153be09d89a7486f849040cc",
+    "manifestSha256": "5efedebf496b5ef7253242b39b0d6ecbbea1ce0cc3bdabf03b227ef1b1600799"
+  },
+  "validationFiles": {
+    "src/index.mjs": "9094171710c8ba84300c7a3bb89879a232a00b13153be09d89a7486f849040cc"
+  }
+}
